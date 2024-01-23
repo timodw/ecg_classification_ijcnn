@@ -1,0 +1,14 @@
+numpy
+matplotlib
+wfdb
+opencv-python
+imblearn
+numba
+tqdm 
+tsfresh
+PyWavelets
+scikit-learn
+scipy
+torch
+skorch
+tsfel
